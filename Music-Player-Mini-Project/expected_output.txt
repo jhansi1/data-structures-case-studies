@@ -1,0 +1,15 @@
+Loading to playlist - Stairway to Heaven - Led Zepplin
+Loading to playlist - Bohemian Rhapsody - Queen
+Loading to playlist - We will rock you - Queen
+Loading to playlist - Back in Black - AC/DC
+Loading to playlist - Chop Suey - System of a down
+Playing Stairway to Heaven - Led Zepplin
+Playing Bohemian Rhapsody - Queen
+Playing We will rock you - Queen
+Playing Bohemian Rhapsody - Queen
+Playing Back in Black - AC/DC
+Playing Bohemian Rhapsody - Queen
+Playing Stairway to Heaven - Led Zepplin
+Error: No more songs left in the played stack
+Playing Chop Suey - System of a down
+Error: No more songs left in the playlist
